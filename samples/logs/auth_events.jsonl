@@ -1,0 +1,4 @@
+
+{"timestamp":"2026-10-31T12:30:00Z","source":"authentication","event_type":"failed_login","source_ip":"192.168.1.10","username":"admin"}
+{"timestamp":"2026-10-31T12:31:00Z","source":"authentication","event_type":"successful_login","source_ip":"192.168.1.15","username":"sagar"}
+{"timestamp":"2026-10-31T12:32:00Z","source":"authentication","event_type":"failed_login","username":"root"}
