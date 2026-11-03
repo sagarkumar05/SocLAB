@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-31T13:00:00Z","source":"authentication","event_type":"failed_login","source_ip":"10.10.10.25","username":"admin"}
+{"timestamp":"2026-10-31T13:01:00Z","source":"authentication","event_type":"failed_login","source_ip":"10.10.10.25","username":"admin"}
+{"timestamp":"2026-10-31T13:02:00Z","source":"authentication","event_type":"failed_login","source_ip":"10.10.10.25","username":"root"}
+{"timestamp":"2026-10-31T13:03:00Z","source":"authentication","event_type":"failed_login","source_ip":"10.10.10.25","username":"admin"}
+{"timestamp":"2026-10-31T13:04:00Z","source":"authentication","event_type":"failed_login","source_ip":"10.10.10.25","username":"admin"}
