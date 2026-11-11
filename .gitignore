@@ -16,3 +16,11 @@ venv/
 # Generated reports
 reports/*
 !reports/.gitkeep
+# SQLite database files
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Generated reports
+reports/*
+!reports/.gitkeep
